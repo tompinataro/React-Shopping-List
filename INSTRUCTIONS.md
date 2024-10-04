@@ -68,3 +68,30 @@ The `Reset` button should clear the purchased status from all items, allowing th
 - Currently, if you typo something, it must be removed and re-added to fix it. An edit feature would be a great enhancement. Add an `Edit` button which will have the existing data show in the input form at the top of the page to allow an easier edit. 
 
   > Hint: For the edit, add a boolean indicator to the component state to indicate if the item is in view or edit mode. 
+
+
+#### Thursday Group Instructions / Roles
+
+# Farhan
+<!-- shoppingRouter // backend setup -> in server // shoppingList Router
+-- create a new file shoppingList router
+-- work between server.js and shoppingListRouter files
+
+# Nick
+<! --GET // fetch items > // in App. jsx
+-- create get / fetch items in app jsx
+-- work with router teammate on route specific info
+
+# Tom
+<POST routes in alternative file-> // update List file
+-- create Update list file
+-- create post router in file
+-- import get route with props
+-- export file to app jsx
+
+
+# Bruce
+< Shopping List form / render> // shopping list form file
+-- create the shopping list file
+-- import the props from the get route / post
+-- export to app jsx

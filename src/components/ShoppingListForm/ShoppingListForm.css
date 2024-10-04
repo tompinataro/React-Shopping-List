@@ -1,0 +1,24 @@
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+
+input {
+margin-top: 10px;
+padding: 5px;
+
+}
+
+button {
+background-color: rgb#65a437;
+color: white;
+border: none;
+}
+
+
+
+
+
